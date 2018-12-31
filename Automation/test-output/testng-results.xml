@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test started Running:f]]>
+    </line>
+    <line>
+      <![CDATA[Opened the Browser -CHROME]]>
+    </line>
+    <line>
+      <![CDATA[Opened the URl - :https://www.amazon.in]]>
+    </line>
+    <line>
+      <![CDATA[Entered the text :-  sony with using locator :- twotabsearchtextbox]]>
+    </line>
+    <line>
+      <![CDATA[CLicked on Amazon Search Button  with using locator :-//*[@id="nav-search"]/form/div[2]/div/input]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\DELL\git\Durgasoft8_AMBatch\Automation//success//Sat_Dec_29_11_16_25_IST_2018.png'> <img src='C:\Users\DELL\git\Durgasoft8_AMBatch\Automation//success//Sat_Dec_29_11_16_25_IST_2018.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test has Success:f]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13187" started-at="2018-12-29T05:46:26Z" finished-at="2018-12-29T05:46:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13187" started-at="2018-12-29T05:46:26Z" finished-at="2018-12-29T05:46:39Z">
+      <class name="com.project.Automation.TC_005">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.project.Automation.TC_005@6b57696f]" name="f" duration-ms="12424" started-at="2018-12-29T05:46:26Z" finished-at="2018-12-29T05:46:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started Running:f]]>
+            </line>
+            <line>
+              <![CDATA[Opened the Browser -CHROME]]>
+            </line>
+            <line>
+              <![CDATA[Opened the URl - :https://www.amazon.in]]>
+            </line>
+            <line>
+              <![CDATA[Entered the text :-  sony with using locator :- twotabsearchtextbox]]>
+            </line>
+            <line>
+              <![CDATA[CLicked on Amazon Search Button  with using locator :-//*[@id="nav-search"]/form/div[2]/div/input]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\DELL\git\Durgasoft8_AMBatch\Automation//success//Sat_Dec_29_11_16_25_IST_2018.png'> <img src='C:\Users\DELL\git\Durgasoft8_AMBatch\Automation//success//Sat_Dec_29_11_16_25_IST_2018.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Test has Success:f]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.project.Automation.TC_005 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
